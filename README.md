@@ -1,7 +1,10 @@
 # Audio-Mixer
+
 Project to compete and provide a alternative to voicemeeter, by providing a modern audio mixer solution for Windows, MacOS and Linux with easy expandability of features and functionality.
 
 # Project Proposal
+
+The proposed project involves the creation of a new audio mixer / audio routing application which will provide a alternative option to Voicemeeter (Voicemeeter potato). The proposed application will provide a modern alternative to Voicemeeter with improved flexibility and extendibility, with the potential of becoming a open source project if successful and requested enough by the user base of the application / project. The project will be very similar to Voicemeeter application, but with improvements related to the flexibility and extendibiliy of the application (e.g. Supporting unlimited virtual inputs, hardware inputs and hardware outputs). Further information and feature specific details will be provided throughout this project, either using the README file, Github wiki or as part of the issue requests (but for feature specific requests).
 
 
 # Reason of the project proposal
