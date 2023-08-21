@@ -21,9 +21,9 @@ Currently, voice meeter is the only product on the market (using the donationwar
 
 # Project Components
 
-1). Audio Device Driver (Virtual Audio Cable)
+1). Audio Device Driver (Virtual Audio Cable).
 
-2). Audio Mixer / Routing Application (Similar to Voicemeeter Potato application)
+2). Audio Mixer / Routing Application (Similar to Voicemeeter Potato application).
 
 3). Plugin engine (Supporting VST3, AAX, etc).
 
@@ -31,4 +31,4 @@ Currently, voice meeter is the only product on the market (using the donationwar
 
 
 # Credits
-Ashleigh Day - Software Engineer
+Ashleigh Day - Software Engineer.
