@@ -27,7 +27,7 @@ Currently, voice meeter is the only product on the market (using the donationwar
 
 3). Plugin engine (Supporting VST3, AAX, etc).
 
-3). Installation Wizzard for both the audio device driver, audio mixer/routing application, and the plugin engine.
+3). Installation Wizzard for the audio device driver, audio mixer/routing application, and the plugin engine.
 
 
 # Credits
